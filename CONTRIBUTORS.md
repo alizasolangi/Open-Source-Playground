@@ -10,7 +10,7 @@ Thank you to all the amazing people who have contributed to the Open Source Play
 
 ## Format
 ```markdown
-### [Your Name](Your GitHub Profile URL)
+### [Aliza SOLANGI](https://github.com/alizasolangi)
 - **Fun Fact**: Something interesting about you!
 - **Favorite Programming Language**: Your favorite language
 - **Location**: Your city/country (optional)
