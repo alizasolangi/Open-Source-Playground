@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing! This guide will help you make your first contribution to open source.
 
+## Zafar Ali , software engineer Muet szab capmus
+
 ## 📋 Table of Contents
 - [Getting Started](#getting-started)
 - [Types of Contributions](#types-of-contributions)
